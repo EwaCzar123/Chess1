@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\ewa\desktop\studia-inf\pk2\chess.allegro\chess.allegro\source.c(121): warning C4101: 'klawiatura': unreferenced local variable
+  Chess.allegro.vcxproj -> C:\Users\Ewa\Desktop\studia-inf\PK2\Chess.allegro\Debug\Chess.allegro.exe
